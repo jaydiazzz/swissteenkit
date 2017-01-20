@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Login Page Brigade\n"
+"POT-Creation-Date: 2015-10-21 09:38+0500\n"
+"PO-Revision-Date: 2015-10-21 09:41+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: custom.php:52 custom.php:70
+msgid "Login Logo"
+msgstr "Logo de inicio de sesión"
+
+#: custom.php:83
+msgid "Logo Width"
+msgstr "Ancho del logo"
+
+#: custom.php:96
+msgid "Logo Height"
+msgstr "Altura del logotipo"
+
+#: custom.php:109
+msgid "Padding Bottom"
+msgstr "Relleno Inferior"
+
+#: custom.php:122
+msgid "Logo URL"
+msgstr "Creador de URL"
+
+#: custom.php:135
+msgid "Logo Hover Test"
+msgstr "Logo de la libración de prueba"
+
+#: custom.php:146 custom.php:164
+msgid "Background"
+msgstr "Fondo"
+
+#: custom.php:181
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: custom.php:194
+msgid "Background Repeat:"
+msgstr "Repetir Fondo:"
+
+#: custom.php:242
+msgid "Image Size: "
+msgstr "Tamaño de la imagen"
+
+#: custom.php:263
+msgid "Customize Form"
+msgstr "Personaliza Formulario"
+
+#: custom.php:279
+msgid "Form Background Image"
+msgstr "Imagen de fondo"
+
+#: custom.php:296
+msgid "Form Background Color"
+msgstr "Color de fondo del formulario"
+
+#: custom.php:309
+msgid "Form Width:"
+msgstr "Ancho del formulario"
+
+#: custom.php:322
+msgid "Form Height:"
+msgstr "altura mórfica"
+
+#: custom.php:335
+msgid "Form Padding:"
+msgstr "Formulario Relleno:"
+
+#: custom.php:347
+msgid " Border (Example: 2px dotted black) "
+msgstr "Fronteriza (Ejemplo: 2px negro de puntos)"
+
+#: custom.php:360
+msgid "Input Text Field Width"
+msgstr "Entrada de texto Ancho de campo"
+
+#: custom.php:373
+msgid "Input Text Field Margin"
+msgstr "Entrada de texto Margen Campo"
+
+#: custom.php:390
+msgid "Input Field Background Color"
+msgstr "Antecedentes Campo de entrada de color"
+
+#: custom.php:407
+msgid "Input Field Text Color"
+msgstr "El campo de entrada de texto en color"
+
+#: custom.php:424
+msgid "Label Color"
+msgstr "Etiqueta de color"
+
+#: custom.php:435
+msgid "Customize Forget Form"
+msgstr "Personalizar Olvídate Formulario"
+
+#: custom.php:451
+msgid "Forget Form Background Image"
+msgstr "Olvídese De la imagen de fondo"
+
+#: custom.php:468
+msgid "Forget Form Background Color"
+msgstr "Olvídese Forma Color de fondo"
+
+#: custom.php:480
+msgid "Button Beauty"
+msgstr "Botón de belleza"
+
+#: custom.php:497
+msgid "Button Color"
+msgstr "Color del botón"
+
+#: custom.php:514
+msgid "Button Border Color"
+msgstr "Color del Borde del Botón"
+
+#: custom.php:531
+msgid "Button Color (Hover)"
+msgstr "Color del texto del botón  al pasar por encima"
+
+#: custom.php:548
+msgid "Button Border (Hover)"
+msgstr "Border Botón (Hover)"
+
+#: custom.php:565
+msgid "Button Box Shadow"
+msgstr "Sombra del Botón"
+
+#: custom.php:582
+msgid "Button Text Color"
+msgstr "Color del texto del botón"
+
+#: custom.php:594
+msgid "Error Messages"
+msgstr "Mensajes de error"
+
+#: custom.php:607
+msgid "Incorrect Username Message:"
+msgstr "Mensaje incorrecta Nombre de usuario:"
+
+#: custom.php:620
+msgid "Incorrect Password Message:"
+msgstr "Mensaje contraseña incorrecta:"
+
+#: custom.php:633
+msgid "Empty Username Message:"
+msgstr "Vacío Mensaje Usuario:"
+
+#: custom.php:646
+msgid "Empty Password Message:"
+msgstr "Mensaje contraseña vacío:"
+
+#: custom.php:659
+msgid "Invalid Email Message:"
+msgstr "Mensaje de correo no válido"
+
+#: custom.php:672
+msgid "Empty Email Message:"
+msgstr "Vacío Mensaje de correo electrónico:"
+
+#: custom.php:685
+msgid "Forget Password Message:"
+msgstr "Olvide Contraseña Mensaje:"
+
+#: custom.php:697
+msgid "Welcome Messages"
+msgstr "Mensajes de bienvenida"
+
+#: custom.php:710
+msgid "Welcome Message on Lost Password:"
+msgstr "Mensaje de bienvenida a la Contraseña Perdida:"
+
+#: custom.php:723
+msgid "Welcome Message on Front Page:"
+msgstr "Mensaje de bienvenida en la página principal:"
+
+#: custom.php:736
+msgid "Welcome Message on Registration:"
+msgstr "Mensaje de bienvenida a la inscripción:"
+
+#: custom.php:749
+msgid "Logout Message:"
+msgstr "Mensaje Cerrar sesión:"
+
+#: custom.php:761
+msgid "Message Field Border: \\n Example: 1px solid #00a0d2;"
+msgstr "Mensaje de Campo Frontera: \\ n Ejemplo: 1px solid # 00a0d2;"
+
+#: custom.php:778
+msgid "Message Field Background Color:"
+msgstr "Mensaje El campo Color de fondo:"
+
+#: custom.php:790
+msgid "Header Message"
+msgstr "Cabecera del mensaje"
+
+#: custom.php:803
+msgid "Header Message:"
+msgstr "Encabezado del mensaje:"
+
+#: custom.php:816
+msgid "Header Message Link:"
+msgstr "Cabecera Mensaje Vínculo:"
+
+#: custom.php:833
+msgid "Header Text Color:"
+msgstr "Color de texto del Encabezado"
+
+#: custom.php:850
+msgid "Header Text Hover Color:"
+msgstr "Color on Hover del Encabezado"
+
+#: custom.php:863 custom.php:990 custom.php:1105
+msgid "Text Font Size:"
+msgstr "Texto: tamaño del tipo de letra"
+
+#: custom.php:880
+msgid "Header Background Color:"
+msgstr "Color de Fondo de la Cabecera"
+
+#: custom.php:892
+msgid "Footer"
+msgstr "Pie de Página"
+
+#: custom.php:905
+msgid "Lost Password Text"
+msgstr "Perdió Contraseña"
+
+#: custom.php:918 custom.php:1033
+msgid "Footer Text Display:"
+msgstr "Pie de página de visualización de texto:"
+
+#: custom.php:960 custom.php:1075 custom.php:1277
+msgid "Footer Text Color:"
+msgstr "Color de texto del pie de página"
+
+#: custom.php:977 custom.php:1092 custom.php:1294
+msgid "Footer Text Hover Color:"
+msgstr "Color de enlace del pie de página (hover)"
+
+#: custom.php:1007 custom.php:1122
+msgid "Footer Background Color:"
+msgstr "Color de Fondo del  Pie de Página"
+
+#: custom.php:1134
+msgid "Login Footer Links"
+msgstr "Enlaces Acceso de pie de página"
+
+#: custom.php:1147
+msgid "Footer Text 1"
+msgstr "Texto del pie de página - parte 1"
+
+#: custom.php:1161
+msgid "Footer Links 1"
+msgstr "Footer Links 1"
+
+#: custom.php:1175
+msgid "Footer Text 2"
+msgstr "Texto del pie de página - parte 2"
+
+#: custom.php:1189
+msgid "Footer Links 2"
+msgstr "Footer Links 2"
+
+#: custom.php:1203
+msgid "Footer Text 3"
+msgstr "Texto del pie de página - parte 3"
+
+#: custom.php:1217
+msgid "Footer Links 3"
+msgstr "Footer Links 3"
+
+#: custom.php:1231
+msgid "Footer Text 4"
+msgstr "Texto del pie de página - parte 4"
+
+#: custom.php:1245
+msgid "Footer Links 4"
+msgstr "Footer Links 4"
+
+#: custom.php:1259
+msgid "All Rights Reserved by:"
+msgstr "Todos los derechos reservados"
+
+#: custom.php:1311
+msgid "Footer Links Background Color:"
+msgstr "Pie de página Enlaces Color de fondo:"
+
+#: custom.php:1323
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: custom.php:1335
+msgid "Customize CSS"
+msgstr "Personalizar CSS"
+
+#: custom.php:1348
+msgid "Custom JS"
+msgstr "JS Personalizados"
+
+#: custom.php:1360
+msgid "Customize JS"
+msgstr "Personaliza JS"
+
+#: customizer-login.php:161 customizer-login.php:162
+msgid "Customize Login Page"
+msgstr "Personaliza la página de entrada"

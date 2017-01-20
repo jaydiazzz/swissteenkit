@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Login Page Brigade\n"
+"POT-Creation-Date: 2015-10-21 09:32+0500\n"
+"PO-Revision-Date: 2015-10-21 09:36+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n"
+"%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: custom.php:52 custom.php:70
+msgid "Login Logo"
+msgstr "شعار تسجيل الدخول"
+
+#: custom.php:83
+msgid "Logo Width"
+msgstr "مقاس عرض الشعار"
+
+#: custom.php:96
+msgid "Logo Height"
+msgstr "ارتفاع الشعار"
+
+#: custom.php:109
+msgid "Padding Bottom"
+msgstr "الازاحة السفلية"
+
+#: custom.php:122
+msgid "Logo URL"
+msgstr "الرابط"
+
+#: custom.php:135
+msgid "Logo Hover Test"
+msgstr "شعار تحوم اختبار"
+
+#: custom.php:146 custom.php:164
+msgid "Background"
+msgstr "الخلفية"
+
+#: custom.php:181
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: custom.php:194
+msgid "Background Repeat:"
+msgstr "تكرار صورة الخلفية:"
+
+#: custom.php:242
+msgid "Image Size: "
+msgstr "حجم الصورة"
+
+#: custom.php:263
+msgid "Customize Form"
+msgstr "تخصيص نموذج"
+
+#: custom.php:279
+msgid "Form Background Image"
+msgstr "صورة الخلفية"
+
+#: custom.php:296
+msgid "Form Background Color"
+msgstr "لون الخلفية"
+
+#: custom.php:309
+msgid "Form Width:"
+msgstr "تشكيل العرض:"
+
+#: custom.php:322
+msgid "Form Height:"
+msgstr "شكل الطول:"
+
+#: custom.php:335
+msgid "Form Padding:"
+msgstr "الحشو شكل:"
+
+#: custom.php:347
+msgid " Border (Example: 2px dotted black) "
+msgstr "الحدود (على سبيل المثال:2px dotted black"
+
+#: custom.php:360
+msgid "Input Text Field Width"
+msgstr "إدخال النص عرض الحقل"
+
+#: custom.php:373
+msgid "Input Text Field Margin"
+msgstr "إدخال النص الهامش الميدان"
+
+#: custom.php:390
+msgid "Input Field Background Color"
+msgstr "حقل إدخال لون الخلفية"
+
+#: custom.php:407
+msgid "Input Field Text Color"
+msgstr "لون الخط حقل الإدخال"
+
+#: custom.php:424
+msgid "Label Color"
+msgstr "تسمية اللون"
+
+#: custom.php:435
+msgid "Customize Forget Form"
+msgstr "تخصيص نسيت نموذج"
+
+#: custom.php:451
+msgid "Forget Form Background Image"
+msgstr "ننسى من صورة الخلفية"
+
+#: custom.php:468
+msgid "Forget Form Background Color"
+msgstr "ننسى نموذج لون الخلفية"
+
+#: custom.php:480
+msgid "Button Beauty"
+msgstr "الجمال زر"
+
+#: custom.php:497
+msgid "Button Color"
+msgstr "لون الزر"
+
+#: custom.php:514
+msgid "Button Border Color"
+msgstr "لون الظل لحدود الزر"
+
+#: custom.php:531
+msgid "Button Color (Hover)"
+msgstr "زر اللون (تحوم)"
+
+#: custom.php:548
+msgid "Button Border (Hover)"
+msgstr "الحدود زر (تحوم)"
+
+#: custom.php:565
+msgid "Button Box Shadow"
+msgstr "الزر مربع الظل"
+
+#: custom.php:582
+msgid "Button Text Color"
+msgstr "لون النص على الزر"
+
+#: custom.php:594
+msgid "Error Messages"
+msgstr "رسائل الخطأ"
+
+#: custom.php:607
+msgid "Incorrect Username Message:"
+msgstr "اسم المستخدم غير صحيح نص الرسالة:"
+
+#: custom.php:620
+msgid "Incorrect Password Message:"
+msgstr "كلمة المرور غير صحيحة رسالة:"
+
+#: custom.php:633
+msgid "Empty Username Message:"
+msgstr "فارغة اسم المستخدم نص الرسالة:"
+
+#: custom.php:646
+msgid "Empty Password Message:"
+msgstr "فارغة كلمة رسالة:"
+
+#: custom.php:659
+msgid "Invalid Email Message:"
+msgstr "التسويق المتوسطة: حزب الشيوعى الصينى، لافتة، والبريد الإلكتروني"
+
+#: custom.php:672
+msgid "Empty Email Message:"
+msgstr "أرسل رسالة فارغة:"
+
+#: custom.php:685
+msgid "Forget Password Message:"
+msgstr "نسيت كلمة المرور الرسالة:"
+
+#: custom.php:697
+msgid "Welcome Messages"
+msgstr "أهلا وسهلا بك الرسائل"
+
+#: custom.php:710
+msgid "Welcome Message on Lost Password:"
+msgstr "رسالة ترحيب على فقدت كلمة المرور:"
+
+#: custom.php:723
+msgid "Welcome Message on Front Page:"
+msgstr "أهلا وسهلا بك رسالة على صفحتها:"
+
+#: custom.php:736
+msgid "Welcome Message on Registration:"
+msgstr "رسالة ترحيب تسجيل:"
+
+#: custom.php:749
+msgid "Logout Message:"
+msgstr "رسالة تسجيل الخروج:"
+
+#: custom.php:761
+msgid "Message Field Border: \\n Example: 1px solid #00a0d2;"
+msgstr "رسالة الحدود الميدانية: \\ ن مثال:1px solid #00a0d2"
+
+#: custom.php:778
+msgid "Message Field Background Color:"
+msgstr "حقل رسالة لون الخلفية:"
+
+#: custom.php:790
+msgid "Header Message"
+msgstr "رأس رسالة"
+
+#: custom.php:803
+msgid "Header Message:"
+msgstr "رأس الرسالة:"
+
+#: custom.php:816
+msgid "Header Message Link:"
+msgstr "رأس رسالة الرابط:"
+
+#: custom.php:833
+msgid "Header Text Color:"
+msgstr "لون النص في رأس الصفحه"
+
+#: custom.php:850
+msgid "Header Text Hover Color:"
+msgstr "رأس نص تحوم اللون:"
+
+#: custom.php:863 custom.php:990 custom.php:1105
+msgid "Text Font Size:"
+msgstr "نص حجم الخط:"
+
+#: custom.php:880
+msgid "Header Background Color:"
+msgstr "لون خلفية رأس الصفحة"
+
+#: custom.php:892
+msgid "Footer"
+msgstr "تذييل الصفحة"
+
+#: custom.php:905
+msgid "Lost Password Text"
+msgstr "فقدت كلمة المرور Text"
+
+#: custom.php:918 custom.php:1033
+msgid "Footer Text Display:"
+msgstr "تذييل نص العرض:"
+
+#: custom.php:960 custom.php:1075 custom.php:1277
+msgid "Footer Text Color:"
+msgstr "لون نص هامش الصفحة"
+
+#: custom.php:977 custom.php:1092 custom.php:1294
+msgid "Footer Text Hover Color:"
+msgstr "تذييل النص تحوم اللون:"
+
+#: custom.php:1007 custom.php:1122
+msgid "Footer Background Color:"
+msgstr "لون خلفية تذييل  الصفحة"
+
+#: custom.php:1134
+msgid "Login Footer Links"
+msgstr "تسجيل الدخول تذييل سريعة"
+
+#: custom.php:1147
+msgid "Footer Text 1"
+msgstr "تذييل النص 1"
+
+#: custom.php:1161
+msgid "Footer Links 1"
+msgstr "روابط ذيل الصفحة"
+
+#: custom.php:1175
+msgid "Footer Text 2"
+msgstr "تذييل النص 2"
+
+#: custom.php:1189
+msgid "Footer Links 2"
+msgstr "روابط ذيل الصفحة"
+
+#: custom.php:1203
+msgid "Footer Text 3"
+msgstr "تذييل النص 3"
+
+#: custom.php:1217
+msgid "Footer Links 3"
+msgstr "روابط ذيل الصفحة"
+
+#: custom.php:1231
+msgid "Footer Text 4"
+msgstr "تذييل النص 4"
+
+#: custom.php:1245
+msgid "Footer Links 4"
+msgstr "روابط ذيل الصفحة"
+
+#: custom.php:1259
+msgid "All Rights Reserved by:"
+msgstr "جميع الحقوق محفوظة"
+
+#: custom.php:1311
+msgid "Footer Links Background Color:"
+msgstr "تذييل روابط لون الخلفية:"
+
+#: custom.php:1323
+msgid "Custom CSS"
+msgstr "CSS مخصصة"
+
+#: custom.php:1335
+msgid "Customize CSS"
+msgstr "تخصيص CSS"
+
+#: custom.php:1348
+msgid "Custom JS"
+msgstr "مخصص js"
+
+#: custom.php:1360
+msgid "Customize JS"
+msgstr "تخصيص JS"
+
+#: customizer-login.php:161 customizer-login.php:162
+msgid "Customize Login Page"
+msgstr "تخصيص صفحة تسجيل الدخول"

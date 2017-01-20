@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Login Page Brigade\n"
+"POT-Creation-Date: 2015-10-21 10:04+0500\n"
+"PO-Revision-Date: 2015-10-21 10:12+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: custom.php:52 custom.php:70
+msgid "Login Logo"
+msgstr "Login Logo"
+
+#: custom.php:83
+msgid "Logo Width"
+msgstr "Logo Breedte"
+
+#: custom.php:96
+msgid "Logo Height"
+msgstr "Logo Hoogte"
+
+#: custom.php:109
+msgid "Padding Bottom"
+msgstr "Padding Bottom"
+
+#: custom.php:122
+msgid "Logo URL"
+msgstr "Logo-url:"
+
+#: custom.php:135
+msgid "Logo Hover Test"
+msgstr "Logo Hover Test"
+
+#: custom.php:146 custom.php:164
+msgid "Background"
+msgstr "Achtergrond"
+
+#: custom.php:181
+msgid "Background Color"
+msgstr "Achtergrond Kleur"
+
+#: custom.php:194
+msgid "Background Repeat:"
+msgstr "Achtergrond herhalen"
+
+#: custom.php:242
+msgid "Image Size: "
+msgstr "Afbeeldingsgrootte:"
+
+#: custom.php:263
+msgid "Customize Form"
+msgstr "Pas Form"
+
+#: custom.php:279
+msgid "Form Background Image"
+msgstr "Formulier Achtergrond Afbeelding"
+
+#: custom.php:296
+msgid "Form Background Color"
+msgstr "Formulier Achtergrondkleur"
+
+#: custom.php:309
+msgid "Form Width:"
+msgstr "Vorm Breedte:"
+
+#: custom.php:322
+msgid "Form Height:"
+msgstr "Vorm Lengte:"
+
+#: custom.php:335
+msgid "Form Padding:"
+msgstr "Vorm Padding:"
+
+#: custom.php:347
+msgid " Border (Example: 2px dotted black) "
+msgstr "Border (Voorbeeld: 2px gestippelde zwart)"
+
+#: custom.php:360
+msgid "Input Text Field Width"
+msgstr "Input tekstveld Breedte"
+
+#: custom.php:373
+msgid "Input Text Field Margin"
+msgstr "Invoertekstveld Marge"
+
+#: custom.php:390
+msgid "Input Field Background Color"
+msgstr "Input Field Achtergrond Kleur"
+
+#: custom.php:407
+msgid "Input Field Text Color"
+msgstr "Tekstinvoerveld Kleur"
+
+#: custom.php:424
+msgid "Label Color"
+msgstr "Label Color"
+
+#: custom.php:435
+msgid "Customize Forget Form"
+msgstr "Aanpassen Vergeet Form"
+
+#: custom.php:451
+msgid "Forget Form Background Image"
+msgstr "Vergeet Van Achtergrond Afbeelding"
+
+#: custom.php:468
+msgid "Forget Form Background Color"
+msgstr "Vergeet Vorm Achtergrond Kleur"
+
+#: custom.php:480
+msgid "Button Beauty"
+msgstr "Knoop Beauty"
+
+#: custom.php:497
+msgid "Button Color"
+msgstr "Knop Kleur"
+
+#: custom.php:514
+msgid "Button Border Color"
+msgstr "Knop Border Kleur"
+
+#: custom.php:531
+msgid "Button Color (Hover)"
+msgstr "Knop Kleur (Hover)"
+
+#: custom.php:548
+msgid "Button Border (Hover)"
+msgstr "Knop Border (Hover)"
+
+#: custom.php:565
+msgid "Button Box Shadow"
+msgstr "Knoop Box Shadow"
+
+#: custom.php:582
+msgid "Button Text Color"
+msgstr "Knop Tekst Kleur"
+
+#: custom.php:594
+msgid "Error Messages"
+msgstr "Foutmeldingen"
+
+#: custom.php:607
+msgid "Incorrect Username Message:"
+msgstr "Onjuiste gebruikersnaam Bericht:"
+
+#: custom.php:620
+msgid "Incorrect Password Message:"
+msgstr "Onjuist wachtwoord Message:"
+
+#: custom.php:633
+msgid "Empty Username Message:"
+msgstr "Lege Gebruikersnaam Message:"
+
+#: custom.php:646
+msgid "Empty Password Message:"
+msgstr "Leeg wachtwoord Message:"
+
+#: custom.php:659
+msgid "Invalid Email Message:"
+msgstr "Ongeldig e-mailbericht:"
+
+#: custom.php:672
+msgid "Empty Email Message:"
+msgstr "Lege e-mailbericht:"
+
+#: custom.php:685
+msgid "Forget Password Message:"
+msgstr "Wachtwoord vergeten Message:"
+
+#: custom.php:697
+msgid "Welcome Messages"
+msgstr "Welkom Berichten"
+
+#: custom.php:710
+msgid "Welcome Message on Lost Password:"
+msgstr "Welkom Bericht op Wachtwoord vergeten:"
+
+#: custom.php:723
+msgid "Welcome Message on Front Page:"
+msgstr "Welkom bericht op de voorpagina:"
+
+#: custom.php:736
+msgid "Welcome Message on Registration:"
+msgstr "Welkom Bericht op Registratie:"
+
+#: custom.php:749
+msgid "Logout Message:"
+msgstr "Logout Message:"
+
+#: custom.php:761
+msgid "Message Field Border: \\n Example: 1px solid #00a0d2;"
+msgstr "Bericht gebied Border: \\ n Voorbeeld: 1px solid # 00a0d2;"
+
+#: custom.php:778
+msgid "Message Field Background Color:"
+msgstr "Bericht Veld Achtergrond Kleur:"
+
+#: custom.php:790
+msgid "Header Message"
+msgstr "Header Message"
+
+#: custom.php:803
+msgid "Header Message:"
+msgstr "Header Message:"
+
+#: custom.php:816
+msgid "Header Message Link:"
+msgstr "Header Message Link:"
+
+#: custom.php:833
+msgid "Header Text Color:"
+msgstr "Koptekst Kleur:"
+
+#: custom.php:850
+msgid "Header Text Hover Color:"
+msgstr "Koptekst Hover Kleur:"
+
+#: custom.php:863 custom.php:990 custom.php:1105
+msgid "Text Font Size:"
+msgstr "Tekst Font Grootte:"
+
+#: custom.php:880
+msgid "Header Background Color:"
+msgstr "﻿Header Achtergrondkleur"
+
+#: custom.php:892
+msgid "Footer"
+msgstr "Footer"
+
+#: custom.php:905
+msgid "Lost Password Text"
+msgstr "Wachtwoord vergeten Text"
+
+#: custom.php:918 custom.php:1033
+msgid "Footer Text Display:"
+msgstr "Footer Text Display:"
+
+#: custom.php:960 custom.php:1075 custom.php:1277
+msgid "Footer Text Color:"
+msgstr "Footer Tekst Kleur:"
+
+#: custom.php:977 custom.php:1092 custom.php:1294
+msgid "Footer Text Hover Color:"
+msgstr "Footer Tekst Hover Kleur:"
+
+#: custom.php:1007 custom.php:1122
+msgid "Footer Background Color:"
+msgstr "Footer Achtergrond Kleur:"
+
+#: custom.php:1134
+msgid "Login Footer Links"
+msgstr "Login Footer Links"
+
+#: custom.php:1147
+msgid "Footer Text 1"
+msgstr "Footer Text 1"
+
+#: custom.php:1161
+msgid "Footer Links 1"
+msgstr "Footer Links 1"
+
+#: custom.php:1175
+msgid "Footer Text 2"
+msgstr "Footer Text 2"
+
+#: custom.php:1189
+msgid "Footer Links 2"
+msgstr "Footer Links 2"
+
+#: custom.php:1203
+msgid "Footer Text 3"
+msgstr "Footer Text 3"
+
+#: custom.php:1217
+msgid "Footer Links 3"
+msgstr "Footer Links 3"
+
+#: custom.php:1231
+msgid "Footer Text 4"
+msgstr "Footer Text 4"
+
+#: custom.php:1245
+msgid "Footer Links 4"
+msgstr "Footer Links 4"
+
+#: custom.php:1259
+msgid "All Rights Reserved by:"
+msgstr "Alle rechten voorbehouden aan:"
+
+#: custom.php:1311
+msgid "Footer Links Background Color:"
+msgstr "Footer Links Achtergrond Kleur:"
+
+#: custom.php:1323
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: custom.php:1335
+msgid "Customize CSS"
+msgstr "Pas CSS"
+
+#: custom.php:1348
+msgid "Custom JS"
+msgstr "Custom JS"
+
+#: custom.php:1360
+msgid "Customize JS"
+msgstr "Pas JS"
+
+#: customizer-login.php:161 customizer-login.php:162
+msgid "Customize Login Page"
+msgstr "Pas Inloggen Pagina"
